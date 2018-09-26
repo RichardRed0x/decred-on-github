@@ -23,7 +23,7 @@ Selected repositories housing important Decred software. Issues are typically us
 
 [xaur/decred-news](https://github.com/xaur/decred-news) - monthly [Decred journal](https://xaur.github.io/decred-news/) maintained by @bee. Seeks review and contributions from other community members in [#DCR Writers](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org) around the start of each month, with the journal being published around the 6th.
 
-[heyvj/decred-events](https://github.com/decred-events) - @vj maintains a log of events where Decred had a presence, the repository also contains wiki pages for future events and best practices.
+[heyvj/decred-events](https://github.com/decred-events) - @vj maintains a set of guidelines and best practices for attending events and hosting meetups. Community members should submit logs of events where Decred had a presence as well as information on upcoming events.
 
 [richardred0x](https://github.com/RichardRed0x/) - has repositories for [writing](https://github.com/RichardRed0x/writing) (feedback usually sought before publication), [analysis](https://github.com/RichardRed0x/analysis) (data and scripts available, welcomes improvements or extensions to code), and an older repo with [Dash data and analysis](https://github.com/RichardRed0x/dash-analysis). 
 
