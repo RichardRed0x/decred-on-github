@@ -31,3 +31,5 @@ Selected repositories housing important Decred software. Issues are typically us
 
 [karamble/dcrstatus](https://github.com/karamble/dcrstatus) - dashboard for Decred Command Line Interface users.
 
+[Guang](https://github.com/Guang168) - repositories for [chinese language articles](https://github.com/Guang168/DCR_CN_articles), and a monthly [Chinese Decred Journal](https://github.com/Guang168/DecredCNJournal) started in Nov 18.
+
